@@ -3,3 +3,6 @@ U Bin/Debug folderu sada imamo i ClassLibrary1.dll datoteku. Exe datoteka ovisi 
 
 # Pitanje 2
 Iz razloga što nismo buildali projekt, pokretanjem exe datoteke ispisat će se sadržaj stare klase. 
+
+# Pitanje 3
+Build proces je izvršen, NodaTime se nalazi u packages direktoriju. 
